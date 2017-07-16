@@ -1,2 +1,4 @@
 this is the show now 3 show id
 
+git config --global credential.helper store
+
